@@ -35,7 +35,11 @@ Strategy Games
   open-source Java remake of a classic game Gruntz!
 * [KaM Remake](https://www.kamremake.com/)
   ([source](https://github.com/Kromster80/kam_remake)): a good remake of Knights
-  and Merchants in Pascal.
+  and Merchants in Pascal
+* [OpenRA](https://www.openra.net/)
+  ([source](https://github.com/OpenRA/OpenRA)): engine for old Westwood
+  strategies (including C&C: Tiberian Dawn, C&C: Red Alert, Dune 2000, C&C:
+  Tiberian Sun, C&C: Red Alert 2)
 * [OpenSAGE](https://opensage.github.io/)
   ([source](https://github.com/OpenSAGE/OpenSAGE)): a C# re-implementation of
   SAGE, the game engine used by a bunch of EA Pacific games, including C&C:
