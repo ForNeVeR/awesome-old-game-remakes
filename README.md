@@ -39,7 +39,7 @@ Strategy Games
 * [OpenRA](https://www.openra.net/)
   ([source](https://github.com/OpenRA/OpenRA)): engine for old Westwood
   strategies (including C&C: Tiberian Dawn, C&C: Red Alert, Dune 2000, C&C:
-  Tiberian Sun, C&C: Red Alert 2)
+  Tiberian Sun, C&C: Red Alert 2), written in C#
 * [OpenSAGE](https://opensage.github.io/)
   ([source](https://github.com/OpenSAGE/OpenSAGE)): a C# re-implementation of
   SAGE, the game engine used by a bunch of EA Pacific games, including C&C:
