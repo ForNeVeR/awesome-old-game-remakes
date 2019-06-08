@@ -10,11 +10,23 @@ content would qualify, too.
 
 Contributions are welcome!
 
+Platformers
+-----------
+
+* [RigelEngine](https://github.com/lethal-guitar/RigelEngine): a
+  re-implementation of Duke Nukem II in C++
+
+Role-Playing Games
+------------------
+
+* [Vangers](https://github.com/KranX/Vangers): a racing/RPG hybrid made
+  open-source by its creators, written in C++
+
 Strategy Games
 --------------
 
 * [Dizgruntled](https://bitbucket.org/pointcliki/dizgruntled/wiki/Home): an
-  open-source Java remake of a classical game Gruntz!
+  open-source Java remake of a classic game Gruntz!
 * [KaM Remake](https://www.kamremake.com/)
   ([source](https://github.com/Kromster80/kam_remake)): a good remake of Knights
   and Merchants in Pascal.
@@ -25,12 +37,6 @@ Strategy Games
 * [Return to the Roots](https://www.siedler25.org/)
   ([source](https://github.com/Return-To-The-Roots/s25client)): a Settlers II
   remake written in C++.
-
-Role-Playing Games
-------------------
-
-* [Vangers](https://github.com/KranX/Vangers): a racing/RPG hybrid made
-  open-source by its creators. Written in C++.
 
 License
 -------
