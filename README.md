@@ -22,6 +22,12 @@ Role-Playing Games
 * [Vangers](https://github.com/KranX/Vangers): a racing/RPG hybrid made
   open-source by its creators, written in C++
 
+Space Shooters
+--------------
+
+* [OpenTyrian](https://bitbucket.org/opentyrian/opentyrian/wiki/Home): an
+  open-source port of Tyrian from Turbo Pascal to C
+
 Strategy Games
 --------------
 
@@ -36,7 +42,7 @@ Strategy Games
   Generals and Battle for Middle Earth
 * [Return to the Roots](https://www.siedler25.org/)
   ([source](https://github.com/Return-To-The-Roots/s25client)): a Settlers II
-  remake written in C++.
+  remake written in C++
 
 License
 -------
