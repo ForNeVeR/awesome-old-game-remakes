@@ -47,6 +47,10 @@ Strategy Games
 * [Return to the Roots](https://www.siedler25.org/)
   ([source](https://github.com/Return-To-The-Roots/s25client)): a Settlers II
   remake written in C++
+* [WarCraft 2000: Nuclear
+  Epidemic](https://github.com/agend/warcraft-2000-nuclear-epidemic): unofficial
+  WarCraft II spin-off with nuclear weapons and completely new engine, written
+  in C++
 
 License
 -------
