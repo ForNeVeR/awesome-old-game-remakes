@@ -21,6 +21,8 @@ Role-Playing Games
 
 * [Vangers](https://github.com/KranX/Vangers): a racing/RPG hybrid made
   open-source by its creators, written in C++
+* [REGoth](https://github.com/REGoth-project/REGoth-bs): an open source
+  reimplementation of zEngine the engine behind Gothic and Gothic II
 
 Space Shooters
 --------------
