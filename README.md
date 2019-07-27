@@ -24,6 +24,13 @@ Role-Playing Games
 * [REGoth](https://github.com/REGoth-project/REGoth-bs): an open source
   reimplementation of zEngine the engine behind Gothic and Gothic II
 
+First-Person Shooters
+---------------------
+
+* [OpenJK](https://github.com/JACoders/OpenJK): an effort to maintain and
+  improve the game engines on which the Jedi Academy and Jedi Outcast games run
+  on, while maintaining full backwards compatibility with the existing games
+
 Space Shooters
 --------------
 
