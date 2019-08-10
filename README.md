@@ -19,10 +19,12 @@ Platformers
 Role-Playing Games
 ------------------
 
-* [Vangers](https://github.com/KranX/Vangers): a racing/RPG hybrid made
-  open-source by its creators, written in C++
+* [Devilution](https://github.com/diasurgical/devilution) and
+  [DevilutionX](https://github.com/diasurgical/devilutionX): a Diablo port
 * [REGoth](https://github.com/REGoth-project/REGoth-bs): an open source
   reimplementation of zEngine the engine behind Gothic and Gothic II
+* [Vangers](https://github.com/KranX/Vangers): a racing/RPG hybrid made
+  open-source by its creators, written in C++
 
 First-Person Shooters
 ---------------------
