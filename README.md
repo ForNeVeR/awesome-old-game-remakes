@@ -13,6 +13,8 @@ Contributions are welcome!
 Platformers
 -----------
 
+* [Abuse](https://github.com/Xenoveritas/abuse): classic action game, a fork of
+  [the original Abuse SDL port](http://abuse.zoy.org/)
 * [RigelEngine](https://github.com/lethal-guitar/RigelEngine): a
   re-implementation of Duke Nukem II in C++
 
