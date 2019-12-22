@@ -1,6 +1,10 @@
 Awesome Old Game Remakes
 ========================
 
+⚠ Obsoleted by [Open Source Game Clones](https://osgameclones.com/) ([GitHub](https://github.com/opengaming/osgameclones)).
+
+---
+
 Inspired by [awesome][].
 
 This is a curated list of awesome open-source remakes of old games (if the old
